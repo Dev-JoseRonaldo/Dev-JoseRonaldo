@@ -7,7 +7,7 @@ Front-End Developer
 * 🌍  I'm based in Recife - PE
 * 🖥️  See my portfolio at [https://joseronaldo.netlify.app/](http://joseronaldo.netlify.app/)
 * ✉️  You can contact me at [dev.joseronaldo@gmail.com](mailto:dev.joseronaldo@gmail.com)
-* 🧠  I'm learning React | Typescript | Node.js | Tailwind | GraphQL
+* 🧠  I'm learning React | Typescript | Node.js | Tailwind | GraphQL | SQL
 
 ### Skills
 
