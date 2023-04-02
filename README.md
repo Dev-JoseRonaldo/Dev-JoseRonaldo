@@ -46,12 +46,10 @@ Front-End Developer
 
 <div align="center">
   <a href="https://github.com/Dev-JoseRonaldo">
-  <img width= 49% src="https://github-readme-stats.vercel.app/api?username=Dev-JoseRonaldo&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=10b981&bg_color=181824&hide_border=true&show_icons=true" alt="Dev-JoseRonaldo's GitHub stats""/>
-  <img width= 49% src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-JoseRonaldo&layout=compact&langs_count=4&&title_color=22c55e&text_color=ffffff&icon_color=10b981&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages""/>
+  <img width= 55% src="https://github-readme-stats.vercel.app/api?username=Dev-JoseRonaldo&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=10b981&bg_color=181824&hide_border=true&show_icons=true" alt="Dev-JoseRonaldo's GitHub stats""/>
+  <img width= 43% src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-JoseRonaldo&layout=compact&langs_count=6&&title_color=22c55e&text_color=ffffff&icon_color=10b981&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages""/>
 <br>
 
-<a href="http://www.github.com/Dev-JoseRonaldo"><img width= 60% src= "https://github-readme-streak-stats.herokuapp.com/?user=Dev-JoseRonaldo&stroke=ffffff&background=181824&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/Dev-JoseRonaldo"><img width= 80% src= "https://github-readme-streak-stats.herokuapp.com/?user=Dev-JoseRonaldo&stroke=ffffff&background=181824&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 </div> 
 <br>
-
-<a href="http://www.github.com/Dev-JoseRonaldo"><img src="https://activity-graph.herokuapp.com/graph?username=Dev-JoseRonaldo&bg_color=181824&color=ffffff&line=10b981&point=ffffff&area_color=181824&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
