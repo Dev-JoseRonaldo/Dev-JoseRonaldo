@@ -1,55 +1,73 @@
-Hi 👋 My name is José Ronaldo
-=============================
+<!-- Título animado -->
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2000&pause=2000&color=FFFFFF&multiline=true&repeat=false&vCenter=true&width=700&height=48&lines=Ol%C3%A1,+mundo!+Meu+nome+é+Jos%C3%A9+Ronaldo!+%F0%9F%91%8B)]()
 
-Front-End Developer
--------------------
+<!-- Informações -->
+## Sobre mim
+  * 🌍  Sou de Recife - Pernambuco
+  * 💻 Atualmente trabalho como **Desenvolvedor de software**, atuando no desenvolvimento de sistemas acadêmicos institucionais na Superintendência de Tecnologia da Informação (STI) - UFPE.
+  * 🎮  Técnico em Programação de Jogos Digitais.
+  * 🎓  Cursando Bacharelado em Sitemas de Informação - UFPE.
+  * 🧑‍🏫  Monitor da disciplina de Programação 1 - Centro de Informática (CIn), UFPE.
 
-* 🌍  I'm based in Recife - PE
-* 🖥️  See my portfolio at [https://joseronaldo.netlify.app/](http://joseronaldo.netlify.app/)
-* ✉️  You can contact me at [dev.joseronaldo@gmail.com](mailto:dev.joseronaldo@gmail.com)
-* 🧠  I'm learning Next.js | Node.js | GraphQL | Jest | Storybook
-
-### Skills
-
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" title="HTML5" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" title="CSS3" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" title="Javascript" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://www.typescriptlang.org/" target="_blank" title="Typescript" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
-<a href="https://reactjs.org/" target="_blank" title="ReactJs" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://nextjs.org/" target="_blank" title="NextJs" rel="noreferrer"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" alt="nextjs" width="40" height="40"/> </a>
-<a href="https://sass-lang.com/" target="_blank" title="Sass" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
-<a href="https://styled-components.com/" target="_blank" title="Styled Components" rel="noreferrer">  <img src="https://skillicons.dev/icons?i=styledcomponents" alt="jest" width="36" height="36"/> </a> 
-<a href="https://getbootstrap.com/" target="_blank" title="Bootstrap" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
-<a href="https://tailwindcss.com/" target="_blank" title="Tailwind" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
-<a href="https://www.figma.com/" target="_blank" title="Figma" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
-<a href="https://git-scm.com/" target="_blank" title="Git/GitFlow" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="36" height="36"/></a>
-<a href="https://jestjs.io" target="_blank" title="Jest" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="36" height="36"/> </a>
-</p>
-
-
+<!-- Contatos -->
 ### Socials
-
 <div>
-<!--CONTATOS -->
   <a href="https://www.linkedin.com/in/devjoseronaldo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:dev.joseronaldo@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://twitter.com/JosRona74801798" target="_blank"><img src="https://img.shields.io/badge/Twitter-00acee?style=for-the-badge&logo=twitter&logoColor=white"></a>
+  <a href="https://twitter.com/JoseRonald39655" target="_blank"><img src="https://img.shields.io/badge/Twitter-00acee?style=for-the-badge&logo=twitter&logoColor=white"></a>
   <a href="https://joseronaldo.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/portfólio-075985?style=for-the-badge&logo=About.me&logoColor=white"></a>
   <a href="https://api.whatsapp.com/send?1=pt_BR&phone=5581989160802"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+    <a href="https://drive.google.com/file/d/1q0rkD1PxBYTJ2Qv-qlMASL4PcrSFQ-1l/view?usp=sharing"><img src="https://img.shields.io/badge/Download%20CV-008080?style=for-the-badge&logoColor=white" target="_blank"></a>
    <p align="left">
 </div>
 
-<br>
+<img src="./.github/assets/images/lineBar.png" width="100%" height="1px"/>
 
-### <b>My GitHub Stats</b>
+<!-- Habilidades -->
+## 👨‍💻 Habilidades
 
+### Linguagens de Programação
+[![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E")](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/pt/)  [![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)](https://www.python.org/) [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/pt-BR/)  [![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)](https://learn.microsoft.com/pt-br/dotnet/csharp/) 
+[![C](https://img.shields.io/badge/-00599C?style=for-the-badge&logo=c&logoColor=white)]()   [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)]() 
+
+### Front-end
+[![HTML 5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML) 
+[![Css 3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)  [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/) [![Nextjs](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/) [![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)](https://sass-lang.com/) [![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)  [![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)](https://styled-components.com/) [![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/) [![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge)](https://storybook.js.org/) 
+### Back-end
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org) [![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com) [![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](https://spring.io/) 
+
+### Banco de dados
+[![Mysql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/) 
+[![Oracle SQL](https://img.shields.io/badge/Oracle%20SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)](https://www.oracle.com/br/database/sqldeveloper/) <!-- [![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)](https://sequelize.org/) --> [![Prisma]( https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)](https://www.prisma.io/)
+
+### Testes de Software
+[![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)](https://jestjs.io) 
+[![React Testing Library](https://img.shields.io/badge/testing%20library-323330?style=for-the-badge&logo=testing-library&logoColor=red)](https://testing-library.com/) 
+
+### Outros
+[![Docker](https://img.shields.io/badge/Docker-1d63ed?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/) 
+[![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/) 
+[![Metodologias Ágeis](https://img.shields.io/badge/Metodologias%20Ágeis-690399?style=for-the-badge&logoColor=white)]()
+[![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com/)
+
+
+
+<img src="./.github/assets/images/lineBar.png" width="100%" height="1px"/>
+
+<!-- Estatísticas - github -->
+## ⭐ Minhas Estatísticas - GitHub
+  <!-- Gráficos -->
 <div align="center">
   <a href="https://github.com/Dev-JoseRonaldo">
-  <img width= 55% src="https://github-readme-stats.vercel.app/api?username=Dev-JoseRonaldo&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=10b981&bg_color=181824&hide_border=true&show_icons=true" alt="Dev-JoseRonaldo's GitHub stats""/>
-  <img width= 43% src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-JoseRonaldo&layout=compact&langs_count=6&&title_color=22c55e&text_color=ffffff&icon_color=10b981&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages""/>
-<br>
-
-<a href="http://www.github.com/Dev-JoseRonaldo"><img width= 80% src= "https://github-readme-streak-stats.herokuapp.com/?user=Dev-JoseRonaldo&stroke=ffffff&background=181824&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+  <img width= 55% src="https://github-readme-stats.vercel.app/api?username=Dev-JoseRonaldo&show_icons=true&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=10b981&bg_color=181824&hide_border=true" alt="Dev-JoseRonaldo's GitHub stats""/>
+  <img width= 41.8% src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-JoseRonaldo&layout=compact&langs_count=6&&title_color=22c55e&text_color=ffffff&icon_color=10b981&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages""/>
+  <br>
+  <a href="http://www.github.com/Dev-JoseRonaldo"><img width= 66% src= "https://github-readme-streak-stats.herokuapp.com/?user=Dev-JoseRonaldo&stroke=ffffff&background=181824&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 </div> 
-<br>
+
+<!-- Troféus -->
+<p align="center">
+  <div align="center" >
+     <img src="https://github-profile-trophy.vercel.app/?username=dev-joseronaldo&row=1&column=6&theme=dracula&margin-w=15&margin-h=15"/>
+  </div> 
+</p>
