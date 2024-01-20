@@ -3,21 +3,21 @@
 
 <!-- Informações -->
 ## Sobre mim
-  * 🌍  Sou de Recife - Pernambuco
-  * 💻 Atualmente trabalho como **Desenvolvedor de software**, atuando no desenvolvimento de sistemas acadêmicos institucionais na Superintendência de Tecnologia da Informação (STI) - UFPE.
+  * 🌍  Sou de Recife - Pernambuco.
+  * 💻 Atualmente trabalho como **Desenvolvedor de Software**, atuando no desenvolvimento de sistemas acadêmicos institucionais na Superintendência de Tecnologia da Informação (STI) - UFPE.
   * 🎮  Técnico em Programação de Jogos Digitais.
   * 🎓  Cursando Bacharelado em Sitemas de Informação - UFPE.
-  * 🧑‍🏫  Monitor da disciplina de Programação 1 - Centro de Informática (CIn), UFPE.
+  * 🧑‍🏫  Monitor da disciplina Programação 1 - Centro de Informática (CIn), UFPE.
 
 <!-- Contatos -->
-### Socials
+### Sociais
 <div>
   <a href="https://www.linkedin.com/in/devjoseronaldo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:dev.joseronaldo@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://twitter.com/JoseRonald39655" target="_blank"><img src="https://img.shields.io/badge/Twitter-00acee?style=for-the-badge&logo=twitter&logoColor=white"></a>
   <a href="https://joseronaldo.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/portfólio-075985?style=for-the-badge&logo=About.me&logoColor=white"></a>
   <a href="https://api.whatsapp.com/send?1=pt_BR&phone=5581989160802"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
-    <a href="https://drive.google.com/file/d/1q0rkD1PxBYTJ2Qv-qlMASL4PcrSFQ-1l/view?usp=sharing"><img src="https://img.shields.io/badge/Download%20CV-008080?style=for-the-badge&logoColor=white" target="_blank"></a>
+    <a href="https://drive.google.com/file/d/1q0rkD1PxBYTJ2Qv-qlMASL4PcrSFQ-1l/view?usp=sharing"><img src="https://img.shields.io/badge/Currículo-008080?style=for-the-badge&logoColor=white" target="_blank"></a>
    <p align="left">
 </div>
 
@@ -71,3 +71,5 @@
      <img src="https://github-profile-trophy.vercel.app/?username=dev-joseronaldo&row=1&column=6&theme=dracula&margin-w=15&margin-h=15"/>
   </div> 
 </p>
+
+> Caso as estatísticas não apareçam, recarregue a página!
