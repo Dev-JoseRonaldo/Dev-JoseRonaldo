@@ -68,7 +68,7 @@
 <!-- Troféus -->
 <p align="center">
   <div align="center" >
-     <img src="https://github-profile-trophy.vercel.app/?username=dev-joseronaldo&row=1&column=6&theme=dracula&margin-w=15&margin-h=15"/>
+     <img src="https://github-profile-trophy.vercel.app/?username=dev-joseronaldo&row=1&column=7&theme=dracula&margin-w=15&margin-h=15"/>
   </div> 
 </p>
 
