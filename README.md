@@ -58,7 +58,7 @@
 [![Docker](https://img.shields.io/badge/Docker-1d63ed?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/) 
 [![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/) 
 [![Metodologias Ágeis](https://img.shields.io/badge/Metodologias%20Ágeis-690399?style=for-the-badge&logoColor=white)]()
-[![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com/)
+[![Linux](https://img.shields.io/badge/Linux-E6B909?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/pages/download/)
 
 
 
