@@ -17,7 +17,7 @@
   <a href="https://x.com/DevJoseRonaldo" target="_blank"><img src="https://img.shields.io/badge/Twitter-00acee?style=for-the-badge&logo=twitter&logoColor=white"></a>
   <a href="https://joseronaldo.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/portfólio-075985?style=for-the-badge&logo=About.me&logoColor=white"></a>
   <a href="https://api.whatsapp.com/send?1=pt_BR&phone=5581989160802"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
-  <a href="https://drive.google.com/file/d/14t36qVxhoNWftMjJr_8rFF0bXsncV6tt/view?usp=drive_link"><img src="https://img.shields.io/badge/Currículo-008080?style=for-the-badge&logoColor=white" target="_blank"></a>
+  <a href="https://drive.google.com/file/d/1jI5kNBJ4Z3nWI37n2OstYotGcu2QSIR4/view?usp=sharing"><img src="https://img.shields.io/badge/Currículo-008080?style=for-the-badge&logoColor=white" target="_blank"></a>
   <p align="left">
 </div>
 
