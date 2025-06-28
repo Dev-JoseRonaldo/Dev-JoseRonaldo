@@ -4,7 +4,6 @@
 <!-- Informações -->
 ## Sobre mim
   * 🌍  Sou de Recife - Pernambuco.
-  * 💻 Atualmente trabalho como **Desenvolvedor de Software**, atuando no desenvolvimento e manutenção de sistemas acadêmicos institucionais na Superintendência de Tecnologia da Informação (STI) - UFPE.
   * 🎮  Técnico em Programação de Jogos Digitais.
   * 🎓  Cursando Bacharelado em Sitemas de Informação - UFPE.
   * 🧑‍🏫  Monitor da disciplina Engenharia de Software - Centro de Informática (CIn), UFPE.
